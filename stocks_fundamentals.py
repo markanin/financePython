@@ -1,9 +1,6 @@
 # Fundamentals of stocks using yahoo finance as data source
 
 from yahoo_finance import Share
-import time
-from datetime import date, timedelta
-import datetime as dt
 
 tickers = ['KMI', 'NNA', 'CAFD', 'GE', 'F', 'MMM', 'TXN', 'BBL', 'GLW', 'STM', 'INTC', 'QCOM']
 
